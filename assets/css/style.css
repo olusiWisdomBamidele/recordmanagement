@@ -1,0 +1,51 @@
+body{
+    font-family:Arial ,Helvetica,sans-serif;
+    margin:30px auto;
+    width:60%;
+}
+
+table{
+    border:1px solid #555;
+    width:80%;
+    border-collapse:collapse;
+
+}
+tr, th, td{
+border: 1px solid #555;
+padding:.5em
+
+}
+#new {
+text-align:right;
+margin-bottom:10px;
+
+
+}
+
+form{
+    width:80%;
+}
+label{
+display:block;
+
+}
+input,textarea{
+width:80%;
+margin-bottom:10px;
+border:1px solid #eee;
+background-color:#ccc;
+
+
+}
+button{
+color:whitesmoke;
+background-color:#6752e8;
+border:1px solid #9777e8;
+border-radius:30px;
+width:80px;
+height:30px;
+
+
+}
+
+
